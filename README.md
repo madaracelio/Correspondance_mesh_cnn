@@ -1,6 +1,6 @@
 # Correspondance_mesh_cnn
 
-## Contenu des dossier
+## Contenu de chaque dossier
 data/ (Images de mesh)
     Femme/ 
     Homme/
