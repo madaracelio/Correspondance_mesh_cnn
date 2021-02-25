@@ -1,0 +1,238 @@
+# Blender MTL File: 'capture_mesh.blend'
+# Material Count: 18
+
+newmtl Blazer.001
+Ns 341.999998
+Ka 1.000000 1.000000 1.000000
+Kd 0.901961 0.901961 0.901961
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump C:\\Users\\Laza Celio\\Desktop\\cap mesh\\AppData\\Local\\Temp\\CharacterCreator2Temp\\Blazer_Normal.jpg
+map_Kd C:\\Users\\Laza Celio\\Desktop\\cap mesh\\AppData\\Local\\Temp\\CharacterCreator2Temp\\Blazer_Diffuse.jpg
+map_Ks C:\\Users\\Laza Celio\\Desktop\\cap mesh\\AppData\\Local\\Temp\\CharacterCreator2Temp\\Blazer_Specular.jpg
+
+newmtl Bra.001
+Ns 90.000016
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.600000 0.600000 0.600000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump C:\\Users\\Laza Celio\\Desktop\\cap mesh\\AppData\\Local\\Temp\\CharacterCreator2Temp\\Bra_Normal.jpg
+map_Kd C:\\Users\\Laza Celio\\Desktop\\cap mesh\\AppData\\Local\\Temp\\CharacterCreator2Temp\\Bra_Diffuse.jpg
+map_Ks C:\\Users\\Laza Celio\\Desktop\\cap mesh\\AppData\\Local\\Temp\\CharacterCreator2Temp\\Bra_Specular.jpg
+
+newmtl Camisole.001
+Ns 90.000016
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.600000 0.600000 0.600000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump C:\\Users\\Laza Celio\\Desktop\\cap mesh\\AppData\\Local\\Temp\\CharacterCreator2Temp\\Camisole_Normal.jpg
+map_Kd C:\\Users\\Laza Celio\\Desktop\\cap mesh\\AppData\\Local\\Temp\\CharacterCreator2Temp\\Camisole_Diffuse.jpg
+map_Ks C:\\Users\\Laza Celio\\Desktop\\cap mesh\\AppData\\Local\\Temp\\CharacterCreator2Temp\\Camisole_Specular.jpg
+
+newmtl Cornea.001
+Ns 566.999990
+Ka 0.200000 0.200000 0.200000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 0.552786
+illum 6
+map_Bump C:\\Users\\Laza Celio\\Desktop\\cap mesh\\AppData\\Local\\Temp\\CharacterCreator2Temp\\Cornea_Normal.png
+map_Kd C:\\Users\\Laza Celio\\Desktop\\cap mesh\\AppData\\Local\\Temp\\CharacterCreator2Temp\\Cornea_Diffuse.png
+refl C:\\Users\\Laza Celio\\Desktop\\cap mesh\\AppData\\Local\\Temp\\CharacterCreator2Temp\\Cornea_Reflection.jpg
+
+newmtl Eye.001
+Ns 359.999995
+Ka 0.200000 0.200000 0.200000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump C:\\Users\\Laza Celio\\Desktop\\cap mesh\\AppData\\Local\\Temp\\CharacterCreator2Temp\\Eye_Normal.png
+map_Kd C:\\Users\\Laza Celio\\Desktop\\cap mesh\\AppData\\Local\\Temp\\CharacterCreator2Temp\\Eye_Diffuse.png
+refl C:\\Users\\Laza Celio\\Desktop\\cap mesh\\AppData\\Local\\Temp\\CharacterCreator2Temp\\Eye_Reflection.jpg
+
+newmtl Eyelash.001
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd C:\\Users\\Laza Celio\\Desktop\\cap mesh\\AppData\\Local\\Temp\\CharacterCreator2Temp\\Eyelash_Diffuse.jpg
+map_Ks C:\\Users\\Laza Celio\\Desktop\\cap mesh\\AppData\\Local\\Temp\\CharacterCreator2Temp\\Eyelash_Specular.jpg
+map_d C:\\Users\\Laza Celio\\Desktop\\cap mesh\\AppData\\Local\\Temp\\CharacterCreator2Temp\\Eyelash_Opacity.jpg
+
+newmtl Fingernail.001
+Ns 270.000020
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump C:\\Users\\Laza Celio\\Desktop\\cap mesh\\AppData\\Local\\Temp\\CharacterCreator2Temp\\Fingernail_Normal.jpg
+map_Kd C:\\Users\\Laza Celio\\Desktop\\cap mesh\\AppData\\Local\\Temp\\CharacterCreator2Temp\\Fingernail_Diffuse.jpg
+map_Ks C:\\Users\\Laza Celio\\Desktop\\cap mesh\\AppData\\Local\\Temp\\CharacterCreator2Temp\\Fingernail_Specular.jpg
+
+newmtl High_polytail.001
+Ns 90.000016
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.300000 0.300000 0.300000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump -bm 0.400000 C:\\Users\\Laza Celio\\Desktop\\cap mesh\\AppData\\Local\\Temp\\CharacterCreator2Temp\\High_polytail_Bump.jpg
+map_Kd C:\\Users\\Laza Celio\\Desktop\\cap mesh\\AppData\\Local\\Temp\\CharacterCreator2Temp\\High_polytail_Diffuse.png
+map_Ks C:\\Users\\Laza Celio\\Desktop\\cap mesh\\AppData\\Local\\Temp\\CharacterCreator2Temp\\High_polytail_Specular.png
+map_d C:\\Users\\Laza Celio\\Desktop\\cap mesh\\AppData\\Local\\Temp\\CharacterCreator2Temp\\High_polytail_Opacity.jpg
+
+newmtl Jeans.001
+Ns 90.000016
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.600000 0.600000 0.600000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump C:\\Users\\Laza Celio\\Desktop\\cap mesh\\AppData\\Local\\Temp\\CharacterCreator2Temp\\Jeans_Normal.png
+map_Kd C:\\Users\\Laza Celio\\Desktop\\cap mesh\\AppData\\Local\\Temp\\CharacterCreator2Temp\\Jeans_Diffuse.png
+map_Ks C:\\Users\\Laza Celio\\Desktop\\cap mesh\\AppData\\Local\\Temp\\CharacterCreator2Temp\\Jeans_Specular.png
+
+newmtl Lower_Teeth.001
+Ns 315.000010
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump C:\\Users\\Laza Celio\\Desktop\\cap mesh\\AppData\\Local\\Temp\\CharacterCreator2Temp\\Lower_Teeth_Normal.jpg
+map_Kd C:\\Users\\Laza Celio\\Desktop\\cap mesh\\AppData\\Local\\Temp\\CharacterCreator2Temp\\Lower_Teeth_Diffuse.jpg
+map_Ks C:\\Users\\Laza Celio\\Desktop\\cap mesh\\AppData\\Local\\Temp\\CharacterCreator2Temp\\Lower_Teeth_Specular.jpg
+
+newmtl Scalp_High_polytail.001
+Ns 90.000016
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.300000 0.300000 0.300000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump -bm 0.400000 C:\\Users\\Laza Celio\\Desktop\\cap mesh\\AppData\\Local\\Temp\\CharacterCreator2Temp\\Scalp_High_polytail_Bump.jpg
+map_Kd C:\\Users\\Laza Celio\\Desktop\\cap mesh\\AppData\\Local\\Temp\\CharacterCreator2Temp\\Scalp_High_polytail_Diffuse.png
+map_Ks C:\\Users\\Laza Celio\\Desktop\\cap mesh\\AppData\\Local\\Temp\\CharacterCreator2Temp\\Scalp_High_polytail_Specular.png
+map_d C:\\Users\\Laza Celio\\Desktop\\cap mesh\\AppData\\Local\\Temp\\CharacterCreator2Temp\\Scalp_High_polytail_Opacity.jpg
+
+newmtl Skin_Body.001
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump C:\\Users\\Laza Celio\\Desktop\\cap mesh\\AppData\\Local\\Temp\\CharacterCreator2Temp\\Skin_Body_Normal.jpg
+map_Kd C:\\Users\\Laza Celio\\Desktop\\cap mesh\\AppData\\Local\\Temp\\CharacterCreator2Temp\\Skin_Body_Diffuse.jpg
+map_Ks C:\\Users\\Laza Celio\\Desktop\\cap mesh\\AppData\\Local\\Temp\\CharacterCreator2Temp\\Skin_Body_Specular.jpg
+
+newmtl Skin_Head.001
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump C:\\Users\\Laza Celio\\Desktop\\cap mesh\\AppData\\Local\\Temp\\CharacterCreator2Temp\\Skin_Head_Normal.jpg
+map_Kd C:\\Users\\Laza Celio\\Desktop\\cap mesh\\AppData\\Local\\Temp\\CharacterCreator2Temp\\Skin_Head_Diffuse.jpg
+map_Ks C:\\Users\\Laza Celio\\Desktop\\cap mesh\\AppData\\Local\\Temp\\CharacterCreator2Temp\\Skin_Head_Specular.jpg
+
+newmtl Toenail.001
+Ns 270.000020
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump C:\\Users\\Laza Celio\\Desktop\\cap mesh\\AppData\\Local\\Temp\\CharacterCreator2Temp\\Toenail_Normal.jpg
+map_Kd C:\\Users\\Laza Celio\\Desktop\\cap mesh\\AppData\\Local\\Temp\\CharacterCreator2Temp\\Toenail_Diffuse.jpg
+map_Ks C:\\Users\\Laza Celio\\Desktop\\cap mesh\\AppData\\Local\\Temp\\CharacterCreator2Temp\\Toenail_Specular.jpg
+
+newmtl Tongue.001
+Ns 270.000020
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump -bm 0.300000 C:\\Users\\Laza Celio\\Desktop\\cap mesh\\AppData\\Local\\Temp\\CharacterCreator2Temp\\Tongue_Normal.jpg
+map_Kd C:\\Users\\Laza Celio\\Desktop\\cap mesh\\AppData\\Local\\Temp\\CharacterCreator2Temp\\Tongue_Diffuse.jpg
+map_Ks C:\\Users\\Laza Celio\\Desktop\\cap mesh\\AppData\\Local\\Temp\\CharacterCreator2Temp\\Tongue_Specular.jpg
+
+newmtl Underwear_Bottoms
+Ns 90.000016
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.600000 0.600000 0.600000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump C:\\Users\\Laza Celio\\Desktop\\cap mesh\\AppData\\Local\\Temp\\CharacterCreator2Temp\\Underwear Bottoms_Normal.jpg
+map_Kd C:\\Users\\Laza Celio\\Desktop\\cap mesh\\AppData\\Local\\Temp\\CharacterCreator2Temp\\Underwear Bottoms_Diffuse.jpg
+map_Ks C:\\Users\\Laza Celio\\Desktop\\cap mesh\\AppData\\Local\\Temp\\CharacterCreator2Temp\\Underwear Bottoms_Specular.jpg
+
+newmtl Upper_Teeth.001
+Ns 315.000010
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump C:\\Users\\Laza Celio\\Desktop\\cap mesh\\AppData\\Local\\Temp\\CharacterCreator2Temp\\Upper_Teeth_Normal.jpg
+map_Kd C:\\Users\\Laza Celio\\Desktop\\cap mesh\\AppData\\Local\\Temp\\CharacterCreator2Temp\\Upper_Teeth_Diffuse.jpg
+map_Ks C:\\Users\\Laza Celio\\Desktop\\cap mesh\\AppData\\Local\\Temp\\CharacterCreator2Temp\\Upper_Teeth_Specular.jpg
+
+newmtl _Sneakers
+Ns 90.000016
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.400000 0.400000 0.400000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump C:\\Users\\Laza Celio\\Desktop\\cap mesh\\AppData\\Local\\Temp\\CharacterCreator2Temp\\ Sneakers_Normal.jpg
+map_Kd C:\\Users\\Laza Celio\\Desktop\\cap mesh\\AppData\\Local\\Temp\\CharacterCreator2Temp\\ Sneakers_Diffuse.jpg
+map_Ks C:\\Users\\Laza Celio\\Desktop\\cap mesh\\AppData\\Local\\Temp\\CharacterCreator2Temp\\ Sneakers_Specular.jpg
