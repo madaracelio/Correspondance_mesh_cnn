@@ -292,7 +292,11 @@ id,name
 0048(9), aj
 0048(10), aj
 0048(11), aj
-0048(1), aj
+0048(12), aj
+0048(13), aj
+0048(14), aj
+0048(15), aj
+0048(16), aj
 0049(1), claire
 0049(2), claire
 0049(3), claire
@@ -373,11 +377,6 @@ id,name
 0050(12), jason
 0050(13), jason
 0050(14), jason
-0050(15), jason
-0050(16), jason
-0050(17), jason
-0050(18), jason
-0050(19), jason
 0051(1), john_wick
 0051(2), john_wick
 0051(3), john_wick
