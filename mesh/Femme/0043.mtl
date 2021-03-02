@@ -1,0 +1,145 @@
+# Blender MTL File: 'capture_mesh.blend'
+# Material Count: 13
+
+newmtl Abdomen_Abdomen_Panties_Panties
+Ns 85.000001
+Ka 1.000000 1.000000 1.000000
+Kd 0.680000 0.680000 0.680000
+Ks 0.160000 0.160000 0.160000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\Diris\\Cabine3D\\CNN\\mesh nu\\Abdomen_Abdomen_Panties_PantiesColor.tga
+
+newmtl Body_Body
+Ns 85.000001
+Ka 1.000000 1.000000 1.000000
+Kd 0.680000 0.680000 0.680000
+Ks 0.160000 0.160000 0.160000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump D:\\Diris\\Cabine3D\\CNN\\mesh nu\\Body_BodyBump.tga
+map_Kd D:\\Diris\\Cabine3D\\CNN\\mesh nu\\Body_BodyColor.tga
+
+newmtl Body_Body_Bra_Bra2
+Ns 85.000001
+Ka 1.000000 1.000000 1.000000
+Kd 0.680000 0.680000 0.680000
+Ks 0.160000 0.160000 0.160000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\Diris\\Cabine3D\\CNN\\mesh nu\\Body_Body_Bra_Bra2Color.tga
+
+newmtl EyeL_EyeballL_EyeballL
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.578000 0.578000 0.578000
+Ks 0.800000 0.800000 0.800000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\Diris\\Cabine3D\\CNN\\mesh nu\\EyeL_EyeballL_EyeballLColor.tga
+
+newmtl EyeL_EyelashL_Eyelash1L
+Ns 85.000001
+Ka 1.000000 1.000000 1.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.160000 0.160000 0.160000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\Diris\\Cabine3D\\CNN\\mesh nu\\EyeL_EyelashL_Eyelash1LColor.tga
+
+newmtl EyeR_EyeballR_EyeballR
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.578000 0.578000 0.578000
+Ks 0.800000 0.800000 0.800000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\Diris\\Cabine3D\\CNN\\mesh nu\\EyeR_EyeballR_EyeballRColor.tga
+
+newmtl EyeR_EyelashR_Eyelash1R
+Ns 85.000001
+Ka 1.000000 1.000000 1.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.160000 0.160000 0.160000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\Diris\\Cabine3D\\CNN\\mesh nu\\EyeR_EyelashR_Eyelash1RColor.tga
+
+newmtl Head_Hair_Hair07
+Ns 85.000001
+Ka 1.000000 1.000000 1.000000
+Kd 0.680000 0.680000 0.680000
+Ks 0.160000 0.160000 0.160000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump D:\\Diris\\Cabine3D\\CNN\\mesh nu\\Head_Hair_Hair07Bump.tga
+map_Kd D:\\Diris\\Cabine3D\\CNN\\mesh nu\\Head_Hair_Hair07Color.tga
+
+newmtl Head_UpperTeeth_UpperTeeth1
+Ns 79.999987
+Ka 1.000000 1.000000 1.000000
+Kd 0.571000 0.551000 0.578000
+Ks 0.240000 0.240000 0.240000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\Diris\\Cabine3D\\CNN\\mesh nu\\Head_UpperTeeth_UpperTeeth1Color.tga
+
+newmtl Material
+Ns 96.078443
+Ka 1.000000 1.000000 1.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Material.001
+Ns 96.078443
+Ka 1.000000 1.000000 1.000000
+Kd 0.009889 0.009889 0.009889
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Mouth_LowerTeeth_LowerTeeth1
+Ns 79.999987
+Ka 1.000000 1.000000 1.000000
+Kd 0.571000 0.551000 0.578000
+Ks 0.240000 0.240000 0.240000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\Diris\\Cabine3D\\CNN\\mesh nu\\Mouth_LowerTeeth_LowerTeeth1Color.tga
+
+newmtl Mouth_Tongue_Tongue1
+Ns 85.000001
+Ka 1.000000 1.000000 1.000000
+Kd 0.680000 0.680000 0.680000
+Ks 0.160000 0.160000 0.160000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\Diris\\Cabine3D\\CNN\\mesh nu\\Mouth_Tongue_Tongue1Color.tga

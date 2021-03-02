@@ -1,0 +1,34 @@
+# Blender MTL File: 'capture_mesh.blend'
+# Material Count: 3
+
+newmtl Material
+Ns 96.078443
+Ka 1.000000 1.000000 1.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Material.001
+Ns 96.078443
+Ka 1.000000 1.000000 1.000000
+Kd 0.009889 0.009889 0.009889
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Material.004
+Ns 48.869992
+Ka 1.000000 1.000000 1.000000
+Kd 0.776471 0.274510 0.274510
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\Diris\\Cabine3D\\CNN\\mesh nu\\muschelman.fbx-files\\Material_Flattened_Diffuse.tif
+refl D:\\Diris\\Program Files\\Autodesk\\Mudbox 2017\\Textures\\Lightprobes\\horizon.exr

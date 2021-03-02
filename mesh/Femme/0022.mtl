@@ -1,0 +1,165 @@
+# Blender MTL File: 'capture_mesh.blend'
+# Material Count: 14
+
+newmtl C03FLY_Inst
+Ns 18.000005
+Ka 1.000000 1.000000 1.000000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd G:\\桌面资源\\凯恩与林奇模型\\TogetherVR\\人物\\001.女主角\\360极速浏览器下载\\QQ下载\\HUHUVR_TOGETHER_VR.6down.net\\HUHUVR_TOGETHER_VR\\TogetherVR\\Content\\Paks\\UmodelExport\\Model\\MeiMesh\\KellyT3\\Materails\\fly_D.tga
+
+newmtl Cloth_M_Inst
+Ns 18.000005
+Ka 1.000000 1.000000 1.000000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Bump G:\\桌面资源\\凯恩与林奇模型\\TogetherVR\\人物\\001.女主角\\360极速浏览器下载\\QQ下载\\HUHUVR_TOGETHER_VR.6down.net\\HUHUVR_TOGETHER_VR\\TogetherVR\\Content\\Paks\\UmodelExport\\Model\\MeiMesh\\KellyT3\\Materails\\fabric01_N.tga
+map_Kd G:\\桌面资源\\凯恩与林奇模型\\TogetherVR\\人物\\001.女主角\\360极速浏览器下载\\QQ下载\\HUHUVR_TOGETHER_VR.6down.net\\HUHUVR_TOGETHER_VR\\TogetherVR\\Content\\Paks\\UmodelExport\\Model\\MeiMesh\\KellyT3\\Materails\\KCO03_PaintD.tga
+
+newmtl Cloth_M_Inst1
+Ns 18.000005
+Ka 1.000000 1.000000 1.000000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Bump G:\\桌面资源\\凯恩与林奇模型\\TogetherVR\\人物\\001.女主角\\360极速浏览器下载\\QQ下载\\HUHUVR_TOGETHER_VR.6down.net\\HUHUVR_TOGETHER_VR\\TogetherVR\\Content\\Paks\\UmodelExport\\Model\\MeiMesh\\KellyT3\\Materails\\fabric01_N.tga
+map_Kd G:\\桌面资源\\凯恩与林奇模型\\TogetherVR\\人物\\001.女主角\\360极速浏览器下载\\QQ下载\\HUHUVR_TOGETHER_VR.6down.net\\HUHUVR_TOGETHER_VR\\TogetherVR\\Content\\Paks\\UmodelExport\\Model\\MeiMesh\\KellyT3\\Materails\\KCO03_PaintD.tga
+
+newmtl Eye_Doc2
+Ns 18.000005
+Ka 1.000000 1.000000 1.000000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Bump G:\\桌面资源\\凯恩与林奇模型\\TogetherVR\\人物\\001.女主角\\360极速浏览器下载\\QQ下载\\HUHUVR_TOGETHER_VR.6down.net\\HUHUVR_TOGETHER_VR\\TogetherVR\\Content\\Paks\\UmodelExport\\Model\\MeiMesh\\KellyT3\\Materails\\Eyes\\Textures\\EYE_NORMALS.tga
+map_Kd G:\\桌面资源\\凯恩与林奇模型\\TogetherVR\\人物\\001.女主角\\360极速浏览器下载\\QQ下载\\HUHUVR_TOGETHER_VR.6down.net\\HUHUVR_TOGETHER_VR\\TogetherVR\\Content\\Paks\\UmodelExport\\Model\\MeiMesh\\KellyT3\\Materails\\Eyes\\Textures\\EyeIrisBaseColor_Example_2.tga
+
+newmtl Lash
+Ns 18.000005
+Ka 1.000000 1.000000 1.000000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd G:\\桌面资源\\凯恩与林奇模型\\TogetherVR\\人物\\001.女主角\\360极速浏览器下载\\QQ下载\\HUHUVR_TOGETHER_VR.6down.net\\HUHUVR_TOGETHER_VR\\TogetherVR\\Content\\Paks\\UmodelExport\\Model\\MeiMesh\\KellyT3\\Materails\\K_All_Lash.tga
+
+newmtl M_TearLine_Inst1
+Ns 18.000005
+Ka 1.000000 1.000000 1.000000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:\\Diris\\Cabine3D\\CNN\\mesh\\M_TearLine_Inst1
+
+newmtl Mat_Hair_Example
+Ns 18.000005
+Ka 1.000000 1.000000 1.000000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd G:\\桌面资源\\凯恩与林奇模型\\TogetherVR\\人物\\001.女主角\\360极速浏览器下载\\QQ下载\\HUHUVR_TOGETHER_VR.6down.net\\HUHUVR_TOGETHER_VR\\TogetherVR\\Content\\Paks\\UmodelExport\\Model\\MeiMesh\\KellyT3\\Materails\\K_Hair.tga
+
+newmtl Skin_Tee_Ins2
+Ns 18.000005
+Ka 1.000000 1.000000 1.000000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd G:\\桌面资源\\凯恩与林奇模型\\TogetherVR\\人物\\001.女主角\\360极速浏览器下载\\QQ下载\\HUHUVR_TOGETHER_VR.6down.net\\HUHUVR_TOGETHER_VR\\TogetherVR\\Content\\Paks\\UmodelExport\\Model\\MeiMesh\\KellyT3\\Materails\\K_All_D.tga
+map_Ks G:\\桌面资源\\凯恩与林奇模型\\TogetherVR\\人物\\001.女主角\\360极速浏览器下载\\QQ下载\\HUHUVR_TOGETHER_VR.6down.net\\HUHUVR_TOGETHER_VR\\TogetherVR\\Content\\Paks\\UmodelExport\\Model\\MeiMesh\\KellyT3\\Materails\\K_All_S.tga
+
+newmtl Skin_Ton_Ins6
+Ns 18.000005
+Ka 1.000000 1.000000 1.000000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd G:\\桌面资源\\凯恩与林奇模型\\TogetherVR\\人物\\001.女主角\\360极速浏览器下载\\QQ下载\\HUHUVR_TOGETHER_VR.6down.net\\HUHUVR_TOGETHER_VR\\TogetherVR\\Content\\Paks\\UmodelExport\\Model\\MeiMesh\\KellyT3\\Materails\\K_All_D.tga
+map_Ks G:\\桌面资源\\凯恩与林奇模型\\TogetherVR\\人物\\001.女主角\\360极速浏览器下载\\QQ下载\\HUHUVR_TOGETHER_VR.6down.net\\HUHUVR_TOGETHER_VR\\TogetherVR\\Content\\Paks\\UmodelExport\\Model\\MeiMesh\\KellyT3\\Materails\\K_All_S.tga
+
+newmtl Skin_body3_Ins
+Ns 18.000005
+Ka 1.000000 1.000000 1.000000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd G:\\桌面资源\\凯恩与林奇模型\\TogetherVR\\人物\\001.女主角\\360极速浏览器下载\\QQ下载\\HUHUVR_TOGETHER_VR.6down.net\\HUHUVR_TOGETHER_VR\\TogetherVR\\Content\\Paks\\UmodelExport\\Model\\MeiMesh\\KellyT3\\Materails\\K_All_D.tga
+map_Ks G:\\桌面资源\\凯恩与林奇模型\\TogetherVR\\人物\\001.女主角\\360极速浏览器下载\\QQ下载\\HUHUVR_TOGETHER_VR.6down.net\\HUHUVR_TOGETHER_VR\\TogetherVR\\Content\\Paks\\UmodelExport\\Model\\MeiMesh\\KellyT3\\Materails\\K_All_S.tga
+
+newmtl Skin_eye_Ins
+Ns 18.000005
+Ka 1.000000 1.000000 1.000000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd G:\\桌面资源\\凯恩与林奇模型\\TogetherVR\\人物\\001.女主角\\360极速浏览器下载\\QQ下载\\HUHUVR_TOGETHER_VR.6down.net\\HUHUVR_TOGETHER_VR\\TogetherVR\\Content\\Paks\\UmodelExport\\Model\\MeiMesh\\KellyT3\\Materails\\K_All_D.tga
+map_Ks G:\\桌面资源\\凯恩与林奇模型\\TogetherVR\\人物\\001.女主角\\360极速浏览器下载\\QQ下载\\HUHUVR_TOGETHER_VR.6down.net\\HUHUVR_TOGETHER_VR\\TogetherVR\\Content\\Paks\\UmodelExport\\Model\\MeiMesh\\KellyT3\\Materails\\K_All_S.tga
+
+newmtl Skin_nail_Ins
+Ns 18.000005
+Ka 1.000000 1.000000 1.000000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd G:\\桌面资源\\凯恩与林奇模型\\TogetherVR\\人物\\001.女主角\\360极速浏览器下载\\QQ下载\\HUHUVR_TOGETHER_VR.6down.net\\HUHUVR_TOGETHER_VR\\TogetherVR\\Content\\Paks\\UmodelExport\\Model\\MeiMesh\\KellyT3\\Materails\\K_All_D.tga
+map_Ks G:\\桌面资源\\凯恩与林奇模型\\TogetherVR\\人物\\001.女主角\\360极速浏览器下载\\QQ下载\\HUHUVR_TOGETHER_VR.6down.net\\HUHUVR_TOGETHER_VR\\TogetherVR\\Content\\Paks\\UmodelExport\\Model\\MeiMesh\\KellyT3\\Materails\\K_All_S.tga
+
+newmtl Stick01_Inst
+Ns 18.000005
+Ka 1.000000 1.000000 1.000000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd G:\\桌面资源\\凯恩与林奇模型\\TogetherVR\\人物\\001.女主角\\360极速浏览器下载\\QQ下载\\HUHUVR_TOGETHER_VR.6down.net\\HUHUVR_TOGETHER_VR\\TogetherVR\\Content\\Paks\\UmodelExport\\Model\\MeiMesh\\KellyT3\\Materails\\stick_D.tga
+
+newmtl top_M_Inst1
+Ns 18.000005
+Ka 1.000000 1.000000 1.000000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Bump G:\\桌面资源\\凯恩与林奇模型\\TogetherVR\\人物\\001.女主角\\360极速浏览器下载\\QQ下载\\HUHUVR_TOGETHER_VR.6down.net\\HUHUVR_TOGETHER_VR\\TogetherVR\\Content\\Paks\\UmodelExport\\Model\\MeiMesh\\KellyT3\\Materails\\fabric01_N.tga
+map_Kd G:\\桌面资源\\凯恩与林奇模型\\TogetherVR\\人物\\001.女主角\\360极速浏览器下载\\QQ下载\\HUHUVR_TOGETHER_VR.6down.net\\HUHUVR_TOGETHER_VR\\TogetherVR\\Content\\Paks\\UmodelExport\\Model\\MeiMesh\\KellyT3\\Materails\\KCO03_TopD.tga

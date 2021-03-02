@@ -1,0 +1,14 @@
+# Blender MTL File: 'capture_mesh.blend'
+# Material Count: 1
+
+newmtl 10016_w_Myriam_8k
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump -o 0.000000 -1.000000 0.000000 C:\\Users\\Laza Celio\\Desktop\\07_Shop\\10016_w_Myriam\\tex\\10016_w_Myriam_Body_N_8k.jpg
+map_Kd -o 0.000000 -1.000000 0.000000 C:\\Users\\Laza Celio\\Desktop\\07_Shop\\10016_w_Myriam\\tex\\10016_w_Myriam_Body_D_8k.jpg
