@@ -18,4 +18,4 @@ def d21f(dir_path: str, dest_path: str, ext: str):
             if not os.path.exists(os.path.join(jpgfile)):
                 shutil.copy(jpgfile, os.path.abspath(os.path.join(current_path, dest_path)))
 
-d21f("Train/", "Output/", "jpeg")
+d21f("Train/", "Output/", "png")
