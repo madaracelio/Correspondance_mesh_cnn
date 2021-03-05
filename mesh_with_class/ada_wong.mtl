@@ -1,442 +1,152 @@
-# 3ds Max Wavefront OBJ Exporter v0.94b - (c)2007 guruware
-# File Created: 02.08.2020 22:43:12
+# Blender MTL File: 'capture_mesh.blend'
+# Material Count: 15
 
-newmtl wire_174186203
-	Ns 32
-	d 1
-	Tr 1
-	Tf 1 1 1
-	illum 2
-	Ka 0.0000 0.0000 0.0000
-	Kd 0.6824 0.7294 0.7961
-	Ks 0.3500 0.3500 0.3500
+newmtl 24_+No_Jacket.part2-Material26_0.3_0_0
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
 
-newmtl Material__25
-	Ns 10.0000
-	Ni 1.5000
-	d 1.0000
-	Tr 1.0000
-	Tf 1.0000 1.0000 1.0000 
-	illum 2
-	Ka 0.0000 0.0000 0.0000
-	Kd 0.5880 0.5880 0.5880
-	Ks 0.0000 0.0000 0.0000
-	Ke 0.0000 0.0000 0.0000
-	map_Ka C:\Users\mohaned\Desktop\Ada Wong\ada wong\belt_acc_diff.tga
-	map_Kd C:\Users\mohaned\Desktop\Ada Wong\ada wong\belt_acc_diff.tga
-	map_bump Normal_Bump_Normal Bump.tga
+newmtl 24_+No_Jacket.part2-Material27_0.2_0_0
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
 
-newmtl Material__26
-	Ns 10.0000
-	Ni 1.5000
-	d 1.0000
-	Tr 1.0000
-	Tf 1.0000 1.0000 1.0000 
-	illum 2
-	Ka 0.0000 0.0000 0.0000
-	Kd 0.5880 0.5880 0.5880
-	Ks 0.0000 0.0000 0.0000
-	Ke 0.0000 0.0000 0.0000
-	map_Ka C:\Users\mohaned\Desktop\Ada Wong\ada wong\belt_diff.tga
-	map_Kd C:\Users\mohaned\Desktop\Ada Wong\ada wong\belt_diff.tga
-	map_bump Normal_Bump_Normal Bump.tga
+newmtl 24_+No_Jacket|Glasses.part1-Material43_0.5_0_0
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
 
-newmtl Material__27
-	Ns 10.0000
-	Ni 1.5000
-	d 1.0000
-	Tr 1.0000
-	Tf 1.0000 1.0000 1.0000 
-	illum 2
-	Ka 0.0000 0.0000 0.0000
-	Kd 0.5880 0.5880 0.5880
-	Ks 0.0000 0.0000 0.0000
-	Ke 0.0000 0.0000 0.0000
-	map_Ka C:\Users\mohaned\Desktop\Ada Wong\ada wong\dress_diff.tga
-	map_Kd C:\Users\mohaned\Desktop\Ada Wong\ada wong\dress_diff.tga
-	map_bump Normal_Bump_Normal Bump.tga
+newmtl 24_-No_Jacket.part1-Material33_0.1_0_0
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
 
-newmtl Material__28
-	Ns 10.0000
-	Ni 1.5000
-	d 1.0000
-	Tr 1.0000
-	Tf 1.0000 1.0000 1.0000 
-	illum 2
-	Ka 0.0000 0.0000 0.0000
-	Kd 0.5880 0.5880 0.5880
-	Ks 0.0000 0.0000 0.0000
-	Ke 0.0000 0.0000 0.0000
-	map_Ka C:\Users\mohaned\Desktop\Ada Wong\ada wong\gloves_diff.tga
-	map_Kd C:\Users\mohaned\Desktop\Ada Wong\ada wong\gloves_diff.tga
-	map_bump Normal_Bump_Normal Bump.tga
+newmtl 24_-No_Jacket.part1-Material34_0.5_0_0
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
 
-newmtl Material__29
-	Ns 10.0000
-	Ni 1.5000
-	d 1.0000
-	Tr 1.0000
-	Tf 1.0000 1.0000 1.0000 
-	illum 2
-	Ka 0.0000 0.0000 0.0000
-	Kd 0.5880 0.5880 0.5880
-	Ks 0.0000 0.0000 0.0000
-	Ke 0.0000 0.0000 0.0000
-	map_Ka C:\Users\mohaned\Desktop\Ada Wong\ada wong\holster_diff.tga
-	map_Kd C:\Users\mohaned\Desktop\Ada Wong\ada wong\holster_diff.tga
-	map_bump Normal_Bump_Normal Bump.tga
+newmtl 24_-No_Jacket.part1-Material35_0.5_0_0
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
 
-newmtl Material__30
-	Ns 10.0000
-	Ni 1.5000
-	d 1.0000
-	Tr 1.0000
-	Tf 1.0000 1.0000 1.0000 
-	illum 2
-	Ka 0.0000 0.0000 0.0000
-	Kd 0.5880 0.5880 0.5880
-	Ks 0.0000 0.0000 0.0000
-	Ke 0.0000 0.0000 0.0000
-	map_Ka C:\Users\mohaned\Desktop\Ada Wong\ada wong\holster_diff.tga
-	map_Kd C:\Users\mohaned\Desktop\Ada Wong\ada wong\holster_diff.tga
-	map_bump Normal_Bump_Normal Bump.tga
+newmtl 24_-No_Jacket.part1-Material36_0.5_0_0
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
 
-newmtl Material__31
-	Ns 10.0000
-	Ni 1.5000
-	d 1.0000
-	Tr 1.0000
-	Tf 1.0000 1.0000 1.0000 
-	illum 2
-	Ka 0.0000 0.0000 0.0000
-	Kd 0.5880 0.5880 0.5880
-	Ks 0.0000 0.0000 0.0000
-	Ke 0.0000 0.0000 0.0000
-	map_Ka C:\Users\mohaned\Desktop\Ada Wong\ada wong\lower_diff.tga
-	map_Kd C:\Users\mohaned\Desktop\Ada Wong\ada wong\lower_diff.tga
-	map_bump Normal_Bump_Normal Bump.tga
+newmtl 24_-No_Jacket|Holster.part1-Material37_0.5_0_0
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
 
-newmtl Material__32
-	Ns 10.0000
-	Ni 1.5000
-	d 1.0000
-	Tr 1.0000
-	Tf 1.0000 1.0000 1.0000 
-	illum 2
-	Ka 0.0000 0.0000 0.0000
-	Kd 0.5880 0.5880 0.5880
-	Ks 0.0000 0.0000 0.0000
-	Ke 0.0000 0.0000 0.0000
-	map_Ka C:\Users\mohaned\Desktop\Ada Wong\ada wong\grapple_gun_diff.tga
-	map_Kd C:\Users\mohaned\Desktop\Ada Wong\ada wong\grapple_gun_diff.tga
-	map_bump Normal_Bump_Normal Bump.tga
+newmtl 24_part1-Material45_0.5_0_0
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
 
-newmtl Material__33
-	Ns 10.0000
-	Ni 1.5000
-	d 1.0000
-	Tr 1.0000
-	Tf 1.0000 1.0000 1.0000 
-	illum 2
-	Ka 0.0000 0.0000 0.0000
-	Kd 0.5880 0.5880 0.5880
-	Ks 0.0000 0.0000 0.0000
-	Ke 0.0000 0.0000 0.0000
-	map_Ka C:\Users\mohaned\Desktop\Ada Wong\ada wong\eyes_diff.tga
-	map_Kd C:\Users\mohaned\Desktop\Ada Wong\ada wong\eyes_diff.tga
-	map_bump Normal_Bump_Normal Bump.tga
+newmtl 24_part1-Material46_1_0_0
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
 
-newmtl Material__34
-	Ns 10.0000
-	Ni 1.5000
-	d 1.0000
-	Tr 1.0000
-	Tf 1.0000 1.0000 1.0000 
-	illum 2
-	Ka 0.0000 0.0000 0.0000
-	Kd 0.5880 0.5880 0.5880
-	Ks 0.0000 0.0000 0.0000
-	Ke 0.0000 0.0000 0.0000
-	map_Ka C:\Users\mohaned\Desktop\Ada Wong\ada wong\face_diff.tga
-	map_Kd C:\Users\mohaned\Desktop\Ada Wong\ada wong\face_diff.tga
-	map_bump Normal_Bump_Normal Bump.tga
+newmtl 24_part1-ResidentEvil7:1(1)(5)_0.1_0_0
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
 
-newmtl Material__35
-	Ns 10.0000
-	Ni 1.5000
-	d 1.0000
-	Tr 1.0000
-	Tf 1.0000 1.0000 1.0000 
-	illum 2
-	Ka 0.0000 0.0000 0.0000
-	Kd 0.5880 0.5880 0.5880
-	Ks 0.0000 0.0000 0.0000
-	Ke 0.0000 0.0000 0.0000
-	map_Ka C:\Users\mohaned\Desktop\Ada Wong\ada wong\gloves_diff.tga
-	map_Kd C:\Users\mohaned\Desktop\Ada Wong\ada wong\gloves_diff.tga
-	map_bump Normal_Bump_Normal Bump.tga
+newmtl 24_part1-ResidentEvil7:2(2)_0.5_0_0
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
 
-newmtl Material__36
-	Ns 10.0000
-	Ni 1.5000
-	d 1.0000
-	Tr 1.0000
-	Tf 1.0000 1.0000 1.0000 
-	illum 2
-	Ka 0.0000 0.0000 0.0000
-	Kd 0.5880 0.5880 0.5880
-	Ks 0.0000 0.0000 0.0000
-	Ke 0.0000 0.0000 0.0000
-	map_Ka C:\Users\mohaned\Desktop\Ada Wong\ada wong\lower_diff.tga
-	map_Kd C:\Users\mohaned\Desktop\Ada Wong\ada wong\lower_diff.tga
-	map_bump Normal_Bump_Normal Bump.tga
+newmtl 25_part1-Material44_0.3_0_0.002
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
 
-newmtl Material__37
-	Ns 10.0000
-	Ni 1.5000
-	d 1.0000
-	Tr 1.0000
-	Tf 1.0000 1.0000 1.0000 
-	illum 2
-	Ka 0.0000 0.0000 0.0000
-	Kd 0.5880 0.5880 0.5880
-	Ks 0.0000 0.0000 0.0000
-	Ke 0.0000 0.0000 0.0000
-	map_Ka C:\Users\mohaned\Desktop\Ada Wong\ada wong\torso_diff.tga
-	map_Kd C:\Users\mohaned\Desktop\Ada Wong\ada wong\torso_diff.tga
-	map_bump Normal_Bump_Normal Bump.tga
+newmtl 5_+No_Jacket|Choker.part1-Material47_1_0_0
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
 
-newmtl Material__38
-	Ns 10.0000
-	Ni 1.5000
-	d 1.0000
-	Tr 1.0000
-	Tf 1.0000 1.0000 1.0000 
-	illum 2
-	Ka 0.0000 0.0000 0.0000
-	Kd 0.5880 0.5880 0.5880
-	Ks 0.0000 0.0000 0.0000
-	Ke 0.0000 0.0000 0.0000
-	map_Ka C:\Users\mohaned\Desktop\Ada Wong\ada wong\glasses_1_diff.tga
-	map_Kd C:\Users\mohaned\Desktop\Ada Wong\ada wong\glasses_1_diff.tga
-	map_bump Normal_Bump_Normal Bump.tga
-	map_refl C:\Users\mohaned\Desktop\Ada Wong\ada wong\env.png
-
-newmtl Material__39
-	Ns 10.0000
-	Ni 1.5000
-	d 1.0000
-	Tr 1.0000
-	Tf 1.0000 1.0000 1.0000 
-	illum 2
-	Ka 0.0000 0.0000 0.0000
-	Kd 0.5880 0.5880 0.5880
-	Ks 0.0000 0.0000 0.0000
-	Ke 0.0000 0.0000 0.0000
-	map_Ka C:\Users\mohaned\Desktop\Ada Wong\ada wong\glasses_2_diff.tga
-	map_Kd C:\Users\mohaned\Desktop\Ada Wong\ada wong\glasses_2_diff.tga
-	map_bump Normal_Bump_Normal Bump.tga
-	map_refl C:\Users\mohaned\Desktop\Ada Wong\ada wong\env.png
-
-newmtl Material__40
-	Ns 10.0000
-	Ni 1.5000
-	d 1.0000
-	Tr 1.0000
-	Tf 1.0000 1.0000 1.0000 
-	illum 2
-	Ka 0.0000 0.0000 0.0000
-	Kd 0.5880 0.5880 0.5880
-	Ks 0.0000 0.0000 0.0000
-	Ke 0.0000 0.0000 0.0000
-	map_Ka C:\Users\mohaned\Desktop\Ada Wong\ada wong\glasses_3_diff.tga
-	map_Kd C:\Users\mohaned\Desktop\Ada Wong\ada wong\glasses_3_diff.tga
-	map_bump Normal_Bump_Normal Bump.tga
-	map_refl C:\Users\mohaned\Desktop\Ada Wong\ada wong\env.png
-
-newmtl Material__41
-	Ns 10.0000
-	Ni 1.5000
-	d 1.0000
-	Tr 1.0000
-	Tf 1.0000 1.0000 1.0000 
-	illum 2
-	Ka 0.0000 0.0000 0.0000
-	Kd 0.5880 0.5880 0.5880
-	Ks 0.0000 0.0000 0.0000
-	Ke 0.0000 0.0000 0.0000
-	map_Ka C:\Users\mohaned\Desktop\Ada Wong\ada wong\glasses_6_diff.tga
-	map_Kd C:\Users\mohaned\Desktop\Ada Wong\ada wong\glasses_6_diff.tga
-	map_bump Normal_Bump_Normal Bump.tga
-	map_refl C:\Users\mohaned\Desktop\Ada Wong\ada wong\env.png
-
-newmtl Material__42
-	Ns 10.0000
-	Ni 1.5000
-	d 1.0000
-	Tr 1.0000
-	Tf 1.0000 1.0000 1.0000 
-	illum 2
-	Ka 0.0000 0.0000 0.0000
-	Kd 0.5880 0.5880 0.5880
-	Ks 0.0000 0.0000 0.0000
-	Ke 0.0000 0.0000 0.0000
-	map_Ka C:\Users\mohaned\Desktop\Ada Wong\ada wong\belt_acc_diff.tga
-	map_Kd C:\Users\mohaned\Desktop\Ada Wong\ada wong\belt_acc_diff.tga
-	map_bump Normal_Bump_Normal Bump.tga
-	map_refl C:\Users\mohaned\Desktop\Ada Wong\ada wong\env.png
-
-newmtl Material__43
-	Ns 10.0000
-	Ni 1.5000
-	d 1.0000
-	Tr 1.0000
-	Tf 1.0000 1.0000 1.0000 
-	illum 2
-	Ka 0.0000 0.0000 0.0000
-	Kd 0.5880 0.5880 0.5880
-	Ks 0.0000 0.0000 0.0000
-	Ke 0.0000 0.0000 0.0000
-	map_Ka C:\Users\mohaned\Desktop\Ada Wong\ada wong\holster_diff.tga
-	map_Kd C:\Users\mohaned\Desktop\Ada Wong\ada wong\holster_diff.tga
-	map_bump Normal_Bump_Normal Bump.tga
-	map_refl C:\Users\mohaned\Desktop\Ada Wong\ada wong\env.png
-
-newmtl Material__44
-	Ns 10.0000
-	Ni 1.5000
-	d 1.0000
-	Tr 1.0000
-	Tf 1.0000 1.0000 1.0000 
-	illum 2
-	Ka 0.0000 0.0000 0.0000
-	Kd 0.5880 0.5880 0.5880
-	Ks 0.0000 0.0000 0.0000
-	Ke 0.0000 0.0000 0.0000
-	map_Ka C:\Users\mohaned\Desktop\Ada Wong\ada wong\hair_diff.tga
-	map_Kd C:\Users\mohaned\Desktop\Ada Wong\ada wong\hair_diff.tga
-	map_d C:\Users\mohaned\Desktop\Ada Wong\ada wong\hair_diff.tga
-	map_bump Normal_Bump_Normal Bump.tga
-	map_refl C:\Users\mohaned\Desktop\Ada Wong\ada wong\hair_refl.tga
-
-newmtl Material__45
-	Ns 10.0000
-	Ni 1.5000
-	d 1.0000
-	Tr 1.0000
-	Tf 1.0000 1.0000 1.0000 
-	illum 2
-	Ka 0.0000 0.0000 0.0000
-	Kd 0.5880 0.5880 0.5880
-	Ks 0.2700 0.2700 0.2700
-	Ke 0.0000 0.0000 0.0000
-	map_Ka C:\Users\mohaned\Desktop\Ada Wong\ada wong\handgun_diff.tga
-	map_Kd C:\Users\mohaned\Desktop\Ada Wong\ada wong\handgun_diff.tga
-	map_bump Normal_Bump_Normal Bump.tga
-
-newmtl Material__46
-	Ns 10.0000
-	Ni 1.5000
-	d 1.0000
-	Tr 1.0000
-	Tf 1.0000 1.0000 1.0000 
-	illum 2
-	Ka 0.0000 0.0000 0.0000
-	Kd 0.5880 0.5880 0.5880
-	Ks 0.2700 0.2700 0.2700
-	Ke 0.0000 0.0000 0.0000
-	map_Ka C:\Users\mohaned\Desktop\Ada Wong\ada wong\grapple_hook_diff.tga
-	map_Kd C:\Users\mohaned\Desktop\Ada Wong\ada wong\grapple_hook_diff.tga
-	map_bump Normal_Bump_Normal Bump.tga
-
-newmtl Material__47
-	Ns 10.0000
-	Ni 1.5000
-	d 1.0000
-	Tr 1.0000
-	Tf 1.0000 1.0000 1.0000 
-	illum 2
-	Ka 0.0000 0.0000 0.0000
-	Kd 0.5880 0.5880 0.5880
-	Ks 0.2700 0.2700 0.2700
-	Ke 0.0000 0.0000 0.0000
-	map_Ka C:\Users\mohaned\Desktop\Ada Wong\ada wong\knife_diff.tga
-	map_Kd C:\Users\mohaned\Desktop\Ada Wong\ada wong\knife_diff.tga
-	map_bump Normal_Bump_Normal Bump.tga
-
-newmtl Material__48
-	Ns 10.0000
-	Ni 1.5000
-	d 1.0000
-	Tr 1.0000
-	Tf 1.0000 1.0000 1.0000 
-	illum 2
-	Ka 0.0000 0.0000 0.0000
-	Kd 0.5880 0.5880 0.5880
-	Ks 0.2700 0.2700 0.2700
-	Ke 0.0000 0.0000 0.0000
-	map_Ka C:\Users\mohaned\Desktop\Ada Wong\ada wong\grapple_line_diff.tga
-	map_Kd C:\Users\mohaned\Desktop\Ada Wong\ada wong\grapple_line_diff.tga
-	map_bump Normal_Bump_Normal Bump.tga
-
-newmtl Material__49
-	Ns 10.0000
-	Ni 1.5000
-	d 1.0000
-	Tr 1.0000
-	Tf 1.0000 1.0000 1.0000 
-	illum 2
-	Ka 0.0000 0.0000 0.0000
-	Kd 0.5880 0.5880 0.5880
-	Ks 0.2700 0.2700 0.2700
-	Ke 0.0000 0.0000 0.0000
-	map_Ka C:\Users\mohaned\Desktop\Ada Wong\ada wong\knife_ornament_diff.tga
-	map_Kd C:\Users\mohaned\Desktop\Ada Wong\ada wong\knife_ornament_diff.tga
-	map_bump Normal_Bump_Normal Bump.tga
-
-newmtl Material__50
-	Ns 10.0000
-	Ni 1.5000
-	d 1.0000
-	Tr 1.0000
-	Tf 1.0000 1.0000 1.0000 
-	illum 2
-	Ka 0.0000 0.0000 0.0000
-	Kd 0.5880 0.5880 0.5880
-	Ks 0.2700 0.2700 0.2700
-	Ke 0.0000 0.0000 0.0000
-	map_Ka C:\Users\mohaned\Desktop\Ada Wong\ada wong\glasses_4_diff.tga
-	map_Kd C:\Users\mohaned\Desktop\Ada Wong\ada wong\glasses_4_diff.tga
-	map_d C:\Users\mohaned\Desktop\Ada Wong\ada wong\glasses_4_diff.tga
-	map_bump Normal_Bump_Normal Bump.tga
-
-newmtl Material__51
-	Ns 10.0000
-	Ni 1.5000
-	d 1.0000
-	Tr 1.0000
-	Tf 1.0000 1.0000 1.0000 
-	illum 2
-	Ka 0.0000 0.0000 0.0000
-	Kd 0.5880 0.5880 0.5880
-	Ks 0.2700 0.2700 0.2700
-	Ke 0.0000 0.0000 0.0000
-	map_Ka C:\Users\mohaned\Desktop\Ada Wong\ada wong\glasses_5_diff.tga
-	map_Kd C:\Users\mohaned\Desktop\Ada Wong\ada wong\glasses_5_diff.tga
-	map_d C:\Users\mohaned\Desktop\Ada Wong\ada wong\glasses_5_diff.tga
-	map_bump Normal_Bump_Normal Bump.tga
-
-newmtl Material__52
-	Ns 10.0000
-	Ni 1.5000
-	d 1.0000
-	Tr 1.0000
-	Tf 1.0000 1.0000 1.0000 
-	illum 2
-	Ka 0.0000 0.0000 0.0000
-	Kd 0.5880 0.5880 0.5880
-	Ks 0.0000 0.0000 0.0000
-	Ke 0.0000 0.0000 0.0000
-	map_Ka C:\Users\mohaned\Desktop\Ada Wong\ada wong\lashes_diff.tga
-	map_Kd C:\Users\mohaned\Desktop\Ada Wong\ada wong\lashes_diff.tga
-	map_d C:\Users\mohaned\Desktop\Ada Wong\ada wong\lashes_diff.tga
+newmtl 8_+No_Jacket|Glasses.part1-Material42_0.5_0_0
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3

@@ -18,5 +18,4 @@ def write2csv(filename: str, col1: asarray, col2: asarray, delimiter=","):
         res += col1[i] + delimiter + col2 + "\n"
     pd.to_csv(filename + ".csv", res)
 
-a = getColumnListValue('name')
-print(a)
+c = []
